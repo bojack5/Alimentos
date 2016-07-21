@@ -1,0 +1,6 @@
+familia	Nombre
+1	refrescos
+2	paninis
+3	sanwiches
+4	papas
+5	tortilla
